@@ -8,3 +8,17 @@ J. Zheng, K. Li, N. Mhaisen, W. Ni, E. Tovar and M. Guizani, "Exploring Deep Rei
 
 ## If your computer has two GPUs, run the program as following command
 $ CUDA_VISIBLE_DEVICES=0,1 python jingjing_td3_lstm_v8.py --train
+
+# Citation
+```
+@article{zheng2022exploring,
+  title={Exploring Deep-Reinforcement-Learning-Assisted federated learning for Online Resource Allocation in Privacy-Preserving EdgeIoT},
+  author={Zheng, Jingjing and Li, Kai and Mhaisen, Naram and Ni, Wei and Tovar, Eduardo and Guizani, Mohsen},
+  journal={IEEE Internet of Things Journal},
+  volume={9},
+  number={21},
+  pages={21099--21110},
+  year={2022},
+  publisher={IEEE}
+}
+```
