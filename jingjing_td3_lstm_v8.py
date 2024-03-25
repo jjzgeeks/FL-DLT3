@@ -17,7 +17,7 @@ from IPython.display import clear_output
 import matplotlib.pyplot as plt
 from matplotlib import animation
 from IPython.display import display
-from reacher import Reacher  # Env
+#from reacher import Reacher  # Env
 import gym.spaces as spaces  # Env
 import argparse
 import scipy.io as scio
